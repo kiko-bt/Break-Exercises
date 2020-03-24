@@ -1,0 +1,11 @@
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\bin\Debug\netcoreapp3.1\BreakExercises.exe
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\bin\Debug\netcoreapp3.1\BreakExercises.deps.json
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\bin\Debug\netcoreapp3.1\BreakExercises.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\bin\Debug\netcoreapp3.1\BreakExercises.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\bin\Debug\netcoreapp3.1\BreakExercises.dll
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\bin\Debug\netcoreapp3.1\BreakExercises.pdb
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\obj\Debug\netcoreapp3.1\BreakExercises.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\obj\Debug\netcoreapp3.1\BreakExercises.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\obj\Debug\netcoreapp3.1\BreakExercises.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\obj\Debug\netcoreapp3.1\BreakExercises.dll
+D:\PRACTICE MAKE PERFECT\C#\BreakExercises\BreakExercises\obj\Debug\netcoreapp3.1\BreakExercises.pdb
